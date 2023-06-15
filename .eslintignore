@@ -1,0 +1,7 @@
+dist
+node_modules
+public
+.vscode
+auto-imports.d.ts
+components.d.ts
+.eslintrc-auto-import.json
